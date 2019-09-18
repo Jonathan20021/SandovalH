@@ -25,7 +25,7 @@ class color:
    FAIL = '\033[91m'
 
 class config:
-	key = "" #go to https://numverify.com/
+	key = "3c5c06d4485566e1f120395210949795" #go to https://numverify.com/
 
 def banner():
 	os.system('clear')
@@ -36,7 +36,8 @@ def banner():
 ██╔══╝  ██║██╔══██╗██╔══╝  ██╔══╝  ██║    ╚██╔╝  
 ██║     ██║██║  ██║███████╗██║     ███████╗██║   
 ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝
-	Edit - Jonathan Sandoval               
+	Creador - Jonathan Sandoval
+        Website - http://sandovalsecurity.xyz                
 	""" + color.END
 
 def main():
